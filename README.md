@@ -10,7 +10,7 @@ Web App Skeleton provides a complete starter template for building custom web ap
 
 This repository is part of the [ownCloud Infinite Scale (oCIS)](https://github.com/owncloud/ocis) developer ecosystem. It serves as the official starting point for third-party extension development, integrating with the [ownCloud Web](https://github.com/owncloud/web) extension system.
 
-This component is part of the [oCIS Docker image](https://hub.docker.com/r/owncloud/ocis).
+As a template repository, extensions scaffolded from this skeleton can be bundled into an oCIS deployment image once developed.
 
 ## Getting Started
 
