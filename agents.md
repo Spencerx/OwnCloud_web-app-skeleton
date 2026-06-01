@@ -7,7 +7,7 @@ A starter template for building custom web apps and extensions for ownCloud Infi
 - **Classification:** oCIS
 - **Activity Status:** Active
 - **License:** Apache-2.0
-- **Language:** TypeScript, Vue.js (Starlark listed for CI)
+- **Language:** TypeScript, Vue.js
 
 ## Architecture & Key Paths
 
